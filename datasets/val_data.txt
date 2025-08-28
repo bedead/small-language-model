@@ -1,0 +1,941 @@
+ Black: R. Teichmann.
+
+        1. P - Q 4                P - Q 4
+        2. Kt - K B 3             Kt - K B 3
+        3. P - B 4                P - K 3
+        4. B - Kt 5               B - K 2
+        5. Kt - B 3               Q Kt - Q 2
+        6. P - K 3                O - O
+        7. R - B 1                P - Q Kt 3
+        8. P x P                  P x P
+        9. B - Kt 5
+
+An invention of my own, I believe. I played it on the spur of the moment
+simply to change the normal course of the game. Generally the Bishop goes
+to Q 3, or to R 6, after Q - R 4. The text move is in the nature of an
+ordinary developing move, and as it violates no principle it cannot be bad.
+
+        9. ........               B - Kt 2
+       10. O - O                  P - Q R 3
+       11. B - R 4                R - B 1
+       12. Q - K 2                P - B 4
+       13. P x P                  Kt x P
+
+If P x P; K R - Q 1, and White would play to win one of Black's centre
+Pawns. The drawback to the {210} text move is that it leaves Black's Q P
+isolated, and consequently weak and subject to attack.
+
+       14. K R - Q 1              Kt x B
+
+The alternative would have been 14...P - Kt 4; 15 B - B 2, P - Kt 5;
+16 Kt - Q R 4, Kt (B 4) - K 5.
+
+       15. Kt x Kt                P - Kt 4
+       16. R x R                  Q x R
+       17. Kt - B 3               Q - B 5
+
+Black aims at the exchange of Queens in order to remain with two Bishops
+for the ending, but in this position such a course is a mistake, because
+the Bishop at Kt 2 is inactive and cannot come into the game by any means,
+unless Black gives up the isolated Queen's Pawn which the Bishop must
+defend.
+
+       18. Kt - Q 4
+
+Not, of course, R - Q 4, because of Q x Q; Kt x Q, R - B 1; and there would
+be no good way to prevent R - B 7.
+
+       18. ........               Q x Q
+       19. Kt (B 3) x Q !
+
+Notice the co-ordination of the Knights' moves. They are manoeuvred
+chain-like, so to speak, in order to maintain one of them, either at Q 4 or
+ready to go there. Now White threatens to take the open file, and therefore
+forces Black's next move.
+
+       19. ........               R - B 1
+
+{211}
+
+[Illustration]
+
+The student should examine this position carefully. There seems to be no
+particular danger, yet, as White will demonstrate, Black may be said to be
+lost. If the game is not altogether lost, the defence is at least of the
+most difficult kind; indeed, I must confess that I can see no adequate
+defence against White's next move.
+
+       20. Kt - B 5 !             K - B 1
+
+If 20...B - Q 1; 21 Kt - Q 6, R - B 2; 22 Kt x B, R x Kt; 23 B x Kt, B x B;
+24 R x P, R - B 2; 25 R - Q 2, and White is a Pawn ahead. If 20...B moves
+anywhere else, then B x Kt, doubling the K B P and isolating all of Black's
+King's side Pawns.
+
+       21. Kt x B                 K x Kt
+       22. Kt - Q 4               P - Kt 3
+
+This is practically forced, as White threatened Kt - B 5 ch. Notice that
+the Black Knight is pinned in such a way that no relief can be afforded
+except by giving up the K R P or abandoning the open file {212} with the
+Rook, which would be disastrous, as White would immediately sieze it.
+
+       23. P - B 3 !
+
+[Illustration]
+
+       23. ........               P - R 3
+
+Black could do nothing else except mark time with his Rook along the open
+file, since as soon as he moved away White would take it. White, on the
+other hand, threatens to march up with his King to K 5 via K B 2, K Kt 3,
+K B 4, after having, of course, prepared the way. Hence, Black's best
+chance was to give up a Pawn, as in the text, in order to free his Knight.
+
+       24. B x P                  Kt - Q 2
+       25. P - K R 4              Kt - B 4
+       26. B - B 4                Kt - K 3
+
+Black exchanges Knights to remain with Bishops of {213} opposite colours,
+which gives him the best chance to draw.
+
+       27. Kt x Kt                K x Kt
+
+27...P x Kt would be worse, as White would then be able to post his Bishop
+at K 5.
+
+       28. R - Q 2                R - K R 1
+
+[Illustration]
+
+Black wants to force B - Kt 3. P - K Kt 3 would be bad, on account of
+P - Q 5; which would get the Black Bishop into the game, even though White
+could answer P - K 4. The text move is, however, weak, as will soon be
+seen. His best chance was to play P - Kt 5; and follow it up with P - R 4
+and B - R 3. White meanwhile could play P - Kt 4 and R 5, obtaining a
+passed Pawn, which, with proper play, should win.
+
+       29. R - Q B 2 !            R - Q B 1
+       30. R x R                  B x R
+
+There are now Bishops of opposite colour, but nevertheless White has an
+easily-won game. {214}
+
+       31. K - B 2
+
+[Illustration]
+
+       31. ........               P - Q 5
+
+Practically forced. Otherwise the White King would march up to Q 4 and then
+to B 5 and win Black's Queen's side Pawns. If Black attempted to stop this
+by putting his King at Q B 3 then the White King would enter through K 5
+into Black's King's side and win just as easily.
+
+       32. P x P                  K - Q 4
+       33. K - K 3                B - K 3
+       34. K - Q 3                K - B 3
+       35. P - Q R 3              B - B 5 ch
+       36. K - K 3                B - K 3
+       37. B - R 6
+
+It is better not to hurry P - K Kt 4 because of P - B 4; for although White
+could win in any case, it would take longer. Now the White King threatens
+to help by going in through K B 4 after posting the Bishop {215} at Kt 7,
+where it not only protects the Q P, but indirectly also the Q Kt P.
+
+       37. ........               K - Q 4
+       38. B - Kt 7               Resigns.
+
+The student ought to have realised by this time the enormous importance of
+playing well every kind of ending. In this game again, practically from the
+opening, White aimed at nothing but the isolation of Black's Q P. Once he
+obtained that, he tried for and obtained, fortunately, another advantage of
+position elsewhere which translated itself into the material advantage of a
+Pawn. Then by accurate playing in the ending he gradually forced home his
+advantage. This ending has the merit of having been played against one of
+the finest players in the world.
+
+       *       *       *       *       *
+
+GAME 10. PETROFF DEFENCE
+
+(St. Petersburg, 1914)
+
+White: J. R. Capablanca. Black: F. J. Marshall
+
+        1. P - K 4                P - K 4
+        2. Kt - K B 3             Kt - K B 3
+        3. Kt x P                 P - Q 3
+        4. Kt - K B 3             Kt x P
+        5. Q - K 2                Q - K 2
+        6. P - Q 3                Kt - K B 3
+        7. B - Kt 5
+
+{216} Played by Morphy, and a very fine move. The point is that should
+Black exchange Queens he will be a move behind in development and
+consequently will get a cramped game if White plays accurately.
+
+        7. ........               B - K 3
+
+Marshall thought at the time that this was the best move and consequently
+played it in preference to Q x Q ch.
+
+        8. Kt - B 3               P - K R 3
+        9. B x Kt                 Q x B
+       10. P - Q 4                B - K 2
+       11. Q - Kt 5 ch            Kt - Q 2
+       12. B - Q 3 !
+
+[Illustration]
+
+It is now time to examine the result of the opening. On White's side we
+find the minor pieces well posted and the Queen out in a somewhat odd
+place, it is true, but safe from attack and actually attacking a Pawn.
+{217} White is also ready to Castle. White's position is evidently free
+from danger and his pieces can easily manoeuvre.
+
+On Black's side the first thing we notice is that he has retained both his
+Bishops, unquestionably an advantage; but on the other hand we find his
+pieces bunched together too much, and the Queen in danger of being attacked
+without having any good square to go to. The Bishop at K 2 has no freedom
+and it blocks the Queen, which, in its turn, blocks the Bishop. Besides,
+Black cannot Castle on the King's side because Q x P, R - Kt 1; Q - K 4
+threatening mate, wins a Pawn. Nor can he Castle on the Queen's side
+because Q - R 5 would put Black's game in imminent danger, since he cannot
+play P - R 3 because of B x P; nor can he play K - Kt 1 because of
+Kt - Kt 5. Consequently we must conclude that the opening is all in White's
+favour.
+
+       12. ........               P - Kt 4
+
+To make room for his Queen, threatening also P - Kt 5.
+
+       13. P - K R 3              O - O
+
+giving up a Pawn in an attempt to free his game and take the initiative. It
+was difficult for him to find a move, as White threatened Kt - K 4, and
+should Black go with the Queen to Kt 2, then P - Q 5, B - B 4; Kt x P ch,
+followed by B x B. {218}
+
+       14. Q x P                  Q R - Kt 1
+       15. Q - K 4                Q - Kt 2
+       16. P - Q Kt 3             P - Q B 4
+
+In order to break up White's centre and bring his Knight to B 4 and thus
+lay the foundation for a violent attack against White's King. The plan,
+however, fails, as it always must in such cases, because Black's
+development is backward, and consequently his pieces are not properly
+placed.
+
+       17. O - O                  P x P
+       18. Kt - Q 5 !
+
+A simple move, which destroys Black's plan utterly. Black will now have no
+concerted action of his pieces, and, as his Pawns are all weak, he will
+sooner or later lose them.
+
+[Illustration]
+
+       18. ........               B - Q 1
+       19. B - B 4                Kt - B 4
+       20. Q x P                  Q x Q
+
+{219} The fact that he has to exchange Queens when he is a Pawn behind
+shows that Black's game is lost.
+
+       21. Kt x Q                 B x Kt
+       22. B x B                  B - B 3
+       23. Q R - Q 1              B x Kt
+
+The Knight was too threatening. But now the ending brought about is one in
+which the Bishop is stronger than the Knight; which makes Black's plight a
+desperate one. The game has no further interest, and it is only because of
+its value as a study of this variation of the Petroff that I have given it.
+Black was able to fight it out until the sixtieth move on account of some
+poor play on White's part. The rest of the moves are given merely as a
+matter of form.
+
+       24. R x B                  K - Kt 2
+       25. B - B 4                R - Kt 3
+       26. R - K 1                K - B 3
+       27. P - B 4                Kt - K 3
+       28. P x P ch               P x P
+       29. R - B 1 ch             K - K 2
+       30. R - Kt 4               R - K Kt 1
+       31. R - B 5                R - B 3
+       32. P - K R 4              K R - Q B 1
+       33. P x P                  R - B 4
+       34. B x Kt                 P x B
+       35. R x R                  R x R
+       36. P - Kt 6               K - B 1
+       37. R - Q B 4              R - Q R 4
+  {220}
+       38. P - R 4                K - Kt 2
+       39. R - B 6                R - Q 4
+       40. R - B 7 ch             K x P
+       41. R x P                  R - Q 8 ch
+       42. K - R 2                P - Q 4
+       43. P - R 5                R - Q B 8
+       44. R - B 7                R - Q R 8
+       45. P - Q Kt 4             R - R 5
+       46. P - B 3                P - Q 5
+       47. R - B 6                P x P
+       48. R x P                  R x Kt P
+       49. R - Q R 3              R - Kt 2
+       50. P - R 6                R - Q R 2
+       51. R - R 5                K - B 3
+       52. P - Kt 4               K - K 2
+       53. K - Kt 3               K - Q 3
+       54. K - B 4                K - B 2
+       55. K - K 5                K - Q 2
+       56. P - Kt 5               K - K 2
+       57. P - Kt 6               K - B 1
+       58. K x P                  K - K 1
+       59. P - Kt 7               R x P
+       60. P - R 7                R - Kt 3 ch
+       61. K - B 5                Resigns.
+
+       *       *       *       *       *
+
+{221}
+
+GAME 11. RUY LOPEZ
+
+(St. Petersburg, 1914)
+
+White: J. R. Capablanca. Black: D. Janowski.
+
+        1. P - K 4                P - K 4
+        2. Kt - K B 3             Kt - Q B 3
+        3. B - Kt 5               P - Q R 3
+        4. B x Kt                 Q P x B
+        5. Kt - B 3
+
+I played this move after having discussed it with Alechin on several
+occasions. Alechin considered it, at the time, superior to P - Q 4, which
+is generally played. He played it himself later on in the Tournament, in
+one of his games against Dr. E. Lasker, and obtained the superior game,
+which he only lost through a blunder.
+
+        5. ........               B - Q B 4
+
+P - B 3 is probably the best move in this position. I do not like the text
+move.
+
+        6. P - Q 3                B - K Kt 5
+        7. B - K 3                B x B
+
+This opens the K B file for White, and also reinforces his centre, but
+Black naturally did not want to make a second move with this Bishop.
+
+        8. P x B                  Q - K 2
+        9. O - O                  O - O - O
+
+Bold play, typical of Janowski. {222}
+
+       10. Q - K 1                Kt - R 3
+
+[Illustration]
+
+The problem for White now is to advance his Q Kt P to Kt 5 as fast as he
+can. If he plays P - Q Kt 4 at once, Black simply takes it. If he plays
+first P - Q R 3 and then P - Q Kt 4, he will still have to protect his
+Q Kt P before he can go on and play P - Q R 4 and P - Kt 5. As a matter of
+fact White played a rather unusual move, but one which, under the
+circumstances, was the best, since after it he could at once play
+P - Q Kt 4 and then P - Q R 4 and P - Kt 5.
+
+       11. R - Kt 1 !             P - B 3
+       12. P - Kt 4               Kt - B 2
+       13. P - Q R 4              B x Kt
+
+He simplifies, hoping to lighten White's attack, which will have to be
+conducted practically with only the heavy pieces on the board. He may have
+also done it in order to play Kt - Kt 4 and K 3. {223}
+
+       14. R x B
+
+Taking with the Pawn would have opened a possibility for a counter attack.
+
+       14. ........               P - Q Kt 3
+
+He is forced to this in order to avoid the breaking up of his Queen's side
+Pawns. The only alternative would have been P - Q Kt 4; which on the face
+of it looks bad.
+
+       15. P - Kt 5               B P x P
+       16. P x P                  P - Q R 4
+       17. Kt - Q 5               Q - B 4
+       18. P - B 4
+
+[Illustration]
+
+The White Knight is now a tower of strength. Behind it White will be able
+to prepare an attack, which will begin with P - Q 4, to drive away the
+Black Queen and thus leave himself free to play P - B 5. There is only one
+thing to take care of and that {224} is to prevent Black from sacrificing
+the Rook for the Knight and a Pawn.
+
+       18. ........               Kt - Kt 4
+       19. R - B 2                Kt - K 3
+       20. Q - B 3                R - Q 2
+
+Had White on his 19th move played K R - B 1 instead of R - B 2, Black could
+have played now instead of the text move, R x Kt; K P x R, Q x P ch;
+followed by Kt - B 4 with a winning game.
+
+       21. R - Q 1                K - Kt 2
+
+It would have been better for Black to play K - Q 1. The text move loses
+very rapidly.
+
+       22. P - Q 4                Q - Q 3
+       23. R - B 2                P x P
+       24. P x P                  Kt - B 5
+       25. P - B 5                Kt x Kt
+       26. P x Kt                 Q x Q P
+       27. P - B 6 ch             K - Kt 1
+       28. P x R                  Q x P (Q 2)
+       29. P - Q 5                R - K 1
+       30. P - Q 6                P x P
+       31. Q - B 6                Resigns.
+
+       *       *       *       *       *
+
+{225}
+
+GAME 12. FRENCH DEFENCE
+
+(New York, 1918)
+
+White: J. R. Capablanca. Black: O. Chajes.
+
+        1. P - K 4                P - K 3
+        2. P - Q 4                P - Q 4
+        3. Kt - Q B 3             Kt - K B 3
+        4. B - Q 3
+
+Not the most favoured move, but a perfectly natural developing one, and
+consequently it cannot be bad.
+
+        4 ........                P x P
+
+P - Q B 4 is generally played in this case instead of the text move.
+
+        5. Kt x P                 Q Kt - Q 2
+        6. Kt x Kt ch             Kt x Kt
+        7. Kt - B 3               B - K 2
+
+[Illustration] {226}
+
+        8. Q - K 2
+
+This is played to prevent P - Q Kt 3, followed by B - Kt 2, which is the
+general form of development for Black in this variation. If Black now plays
+8...P - Q Kt 3; 9. B - Kt 5 ch, B - Q 2; 10. Kt - K 5 and White obtains a
+considerable advantage in position.
+
+        8. ........               O - O
+        9. B - K Kt 5             P - K R 3
+
+Of course Black could not play P - Q Kt 3 because of B x Kt, followed by
+Q - K 4.
+
+       10. B x Kt                 B x B
+       11. Q - K 4                P - K Kt 3
+
+This weakens Black's King's side. R - K 1 was the right move.
+
+       12. P - K R 4
+
+[Illustration]
+
+       12. ........               P - K 4
+
+This is merely giving up a Pawn in order to come out quickly with his Q B.
+But as he does not obtain {227} any compensation for his Pawn, the move is
+bad. He should have played Q - Q 4 and tried to fight the game out that
+way. It might have continued thus: 13. Q - B 4, B - Kt 2; 14. Q x B P,
+B x P; 15. Kt x B, Q x Kt; 16. O - O - O with considerable advantage of
+position for White. The text move might be considered a mild form of
+suicide.
+
+       13. P x P                  B - B 4
+       14. Q - K B 4              B x B
+       15. O - O - O              B - Kt 2
+       16. R x B                  Q - K 2
+       17. Q - B 4
+
+In order to keep the Black Queen from coming into the game.
+
+       17. ........               Q R - Q 1
+       18. K R - Q 1
+
+A better plan would have been to play R - K 1, threatening P - K 6.
+
+       18. ........               R x R
+       19. R x R                  R - K 1
+       20. P - B 3                P - Q B 3
+
+Of course if B x P; Kt x B, Q x Kt; R - K 3. Black with a Pawn minus fights
+very hard.
+
+       21. R - K 3
+
+The Pawn had now to be defended after Black's last move, because after
+B x P; Kt x B, Q x Kt; {228} R - K 3, Black could now play Q - Kt 1
+defending the Rook.
+
+       21. ........               P - Q B 4
+       22. K - B 2                P - Kt 3
+       23. P - R 4
+
+White's plan now is to _fix_ the Queen's side in order to be able to
+manoeuvre freely on the other side, where he has the advantage of material.
+
+       23. ........               Q - Q 2
+       24. R - Q 3                Q - B 1
+       25. Q - K 4                Q - K 3
+       26. R - Q 5                K - B 1
+       27. P - B 4                K - Kt 1
+
+[Illustration]
+
+Black sees that he now stands in his best defensive position, and therefore
+waits for White to show how he intends to break through. He notices, of
+course, that the White Knight is in the way of the K B P, which cannot
+advance to K B 4 to defend, or support rather, the Pawn at K 5. {229}
+
+       28. P - Q Kt 3             K - B 1
+       29. K - Q 3                K - Kt 1
+       30. R - Q 6                Q - B 1
+       31. R - Q 5                Q - K 3
+       32. P - K Kt 4             K - B 1
+       33. Q - B 4                K - Kt 1
+       34. Q - K 4                K - B 1
+
+[Illustration]
+
+Black persists in waiting for developments. He sees that if P - K R 5,
+P x P; P x P, the Queen goes to R 6, and White will have to face serious
+difficulties. In this situation White decides that the only course is to
+bring his King to K Kt 3, so as to defend the squares K R 3 and K Kt 4,
+where the Black Queen might otherwise become a source of annoyance.
+
+       35. K - K 2                K - Kt 1
+       36. K - B 1                K - B 1
+       37. K - Kt 2               K - Kt 1
+       38. K - Kt 3               K - B 1
+
+{230}
+
+Now that he has completed his march with the King, White is ready to
+advance.
+
+[Illustration]
+
+       39. P - K R 5              P x P
+
+39...P - K Kt 4 would be answered by Q - B 5, with a winning game.
+
+       40. P x P                  Q - K 2
+
+Against K - Kt 1; White would play Q - Kt 4, practically forcing the
+exchange of Queens, after which White would have little trouble in winning
+the ending, since Black's Bishop could not do much damage in the resulting
+position.
+
+       41. Q - B 5                K - Kt 1
+
+Black overlooks the force of 42 R - Q 7. His best defence was R - Q 1;
+against which White could either advance the King or play Kt - R 4,
+threatening Kt - Kt 6 ch.
+
+       42. R - Q7                 B x P ch
+
+{231}
+
+This loses a piece, but Black's position was altogether hopeless.
+
+       43. K - Kt 4               Q - B 3
+       44. Kt x B                 Q - Kt 2 ch
+       45. K - B 4                Resigns.
+
+The interest of this game centres mainly on the opening and on the march of
+the White King during the final stage of the game. It is an instance of the
+King becoming a fighting piece, even while the Queens are still on the
+board.
+
+       *       *       *       *       *
+
+GAME 13. RUY LOPEZ
+
+(New York, 1918)
+
+White: J. S. Morrison. Black: J. R. Capablanca.
+
+        1. P - K 4                P - K 4
+        2. Kt - K B 3             Kt - Q B 3
+        3. B - Kt 5               P - Q 3
+        4. Kt - B 3               B - Q 2
+        5. P - Q 4                P x P
+        6. Kt x P                 P - K Kt 3
+
+In this form of defence of the Ruy Lopez the development of the K B via
+Kt 2 is, I think, of great importance. The Bishop at Kt 2 exerts great
+pressure along the long diagonal. At the same time the position of the
+Bishop and Pawns in front of the King, once it is Castled, is one of great
+defensive strength. Therefore, in this form of development, the Bishop,
+{232} we might say, exerts its maximum strength (Compare this note with the
+one in the Capablanca-Burn game at San Sebastian, page 197.)
+
+        7. Kt - B 3               B - Kt 2
+        8. B - Kt 5               Kt - B 3
+
+Of course not K Kt - K 2; because of Kt - Q 5. The alternative would have
+been P - B 3; to be followed by K Kt - K 2; but in this position it is
+preferable to have the Kt at K B 3.
+
+        9. Q - Q 2                P - K R 3
+       10. B - K R 4
+
+An error of judgment. White wants to keep the Knight pinned, but it was
+more important to prevent Black from Castling immediately. B - K B 4 would
+have done this.
+
+       10. ........               O - O
+       11. O - O - O
+
+Bold play, but again faulty judgment, unless he intended to play to win or
+lose, throwing safety to the winds. The Black Bishop at Kt 2 becomes a very
+powerful attacking piece. The strategical disposition of the Black pieces
+is now far superior to White's, therefore it will be Black who will take
+the offensive.
+
+       11. ........               R - K 1
+       12. K R - K 1
+
+{233}
+
+[Illustration]
+
+White wanted to keep his Q R on the open file, and consequently brings over
+his other Rook to the centre to defend his K P, which Black threatened to
+win by P - K Kt 4, followed by Kt x P.
+
+       12. ........               P - Kt 4 !
+
+Now that the K R is in the centre, Black can safely advance, since, in
+order to attack on the King's side, White would have to shift his Rooks,
+which he cannot do so long as Black keeps up the pressure in the centre.
+
+       13. B - Kt 3               Kt - K R 4
+
+Uncovering the Bishop, which now acts along the long diagonal, and at the
+same time preventing P - K 5, which would be answered by Kt x B; P x Kt,
+Kt x P; etc., winning a Pawn.
+
+       14. Kt - Q 5               P - R 3
+
+Black drives the Bishop away so as to _unpin_ his pieces and be able to
+manoeuvre freely. {234}
+
+       15. B - Q 3                B - K 3
+
+Preparing the onslaught. Black's pieces begin to bear against the King's
+position.
+
+       16. P - B 3
+
+[Illustration]
+
+With the last move White not only blocks the action of Black's K B, but he
+also aims at placing his Bishop at Q Kt 1 and his Queen at Q B 2, and then
+advancing his K P, to check at K R 7.
+
+       16. ........               P - B 4 !
+
+Initiating an attack to which there is no reply, and which has for its
+ultimate object either the winning of the White Q B or cutting it off from
+the game. (Compare this game with the Winter-Capablanca game at Hastings.)
+
+       17. P - K R 4              P - B 5
+
+The Bishop is now out of action. White naturally counter attacks violently
+against the seemingly {235} exposed position of the Black King, and, with
+very good judgment, even offers the Bishop.
+
+[Illustration]
+
+       18. P x P !                P x P !
+
+Taking the Bishop would be dangerous, if not actually bad, while the text
+move accomplishes Black's object, which is to put the Bishop out of action.
+
+       19. R - R 1                B - B 2
+       20. K - Kt 1
+
+This move unquestionably loses time. Since he would have to retire his
+Bishop to R 2 sooner or later, he might have done it immediately. It is
+doubtful, however, if at this stage of the game it would be possible for
+White to save the game.
+
+       20. ........               Kt - K 4
+       21. Kt x Kt                R x Kt
+
+It was difficult to decide which way to retake. I {236} took with the Rook
+in order to have it prepared for a possible attack against the King.
+
+       22. B - R 2                Kt - B 3
+
+Now that the White Bishop has been driven back, Black wants to get rid of
+White's strongly posted Knight at Q 5, which blocks the attack of the
+Bishop at B 2. It may be said that the Knight at Q 5 is the key to White's
+defence.
+
+[Illustration]
+
+       23. P - Kt 3
+
+White strives not only to have play for his Bishop, but also he wants to
+break up Black's Pawns in order to counter-attack. The alternative would
+have been 23 Kt x Kt ch, Q x Kt; and Black would be threatening R - R 4,
+and also Q - K 3. The student should notice that Black's drawback in all
+this is the fact that he is playing minus the services of his Q R. It is
+this fact that makes it possible for White to hold out longer. {237}
+
+       23. ........               Kt x P
+       24. B x Kt                 R x B
+       25. P x P                  P - B 3
+
+[Illustration]
+
+       26. Kt - K 3
+
+Kt - Kt 4 was the alternative, but in any event White could not resist the
+attack. I leave it to the reader to work this out for himself, as the
+variations are so numerous that they would take up too much space.
+
+       26. ........               Q - R 4
+       27. P - B 4                Q x Q
+       28. R x Q                  P x P
+       29. Kt - Kt 4              B - Kt 3
+
+This forces the King to the corner, where he will be in a mating net.
+
+       30. K - R 1                Q R - K 1
+
+Now at last the Q R enters into the game and soon the battle is over.
+
+       31. P - R 3
+
+If R x P, R - K 8 ch; R - Q 1, R (K 1) - K 7. {238}
+
+       31. ........               R - K 8 ch
+       32. R x R                  R x R ch
+       33. K - R 2                B - B 2
+       34. K - Kt 3               P - Q 4
+
+the quickest way to finish the game.
+
+       35. B x P                  P x P ch
+       36. K - Kt 4               P - B 6
+       37. P x P                  R - K 5 ch
+       38. P - B 4                R x P ch
+       39. K - R 5                R x B
+       40. R - Q 8 ch             K - R 2
+       41. R - Q 7                B - K 3
+            Resigns.
+
+A very lively game.
+
+       *       *       *       *       *
+
+GAME 14. QUEEN'S GAMBIT DECLINED
+
+(New York, 1918)
+
+White: F. J. Marshall. Black: J. R. Capablanca.
+
+        1. P - Q 4                P - Q 4
+        2. Kt - K B 3             Kt - K B 3
+        3. P - B 4                P - K 3
+        4. Kt - B 3               Q Kt - Q 2
+        5. B - Kt 5               B - K 2
+        6. P - K 3                O - O
+        7. R - B 1                P - B 3
+
+This is one of the oldest systems of defence against the Queen's Gambit. I
+had played it before in this Tournament against Kostic, and no doubt
+Marshall expected it. At times I change my defences, {239} or rather
+systems of defence; on the other hand, during a Tournament, if one of them
+has given me good results, I generally play it all the time.
+
+        8. Q - B 2                P x P
+        9. B x P                  Kt - Q 4
+       10. B x B                  Q x B
+       11. O - O                  Kt x Kt
+       12. Q x Kt                 P - Q Kt 3
+
+This is the key to this system of defence. Having simplified the game
+considerably by a series of exchanges, Black will now develop his Q B along
+the long diagonal without having created any apparent weakness. The proper
+development of the Q B is Black's greatest problem in the Queen's Gambit.
+
+       13. P - K 4                B - Kt 2
+       14. K R - K 1              K R - Q 1
+
+[Illustration]
+
+The developing stage can now be said to be complete on both sides. The
+opening is over and the middle-game begins. White, as is generally the
+case, has {240} obtained the centre. Black, on the other hand, is
+entrenched in his first three ranks, and if given time will post his Q R at
+Q B 1 and his Knight at K B 3, and finally play P - Q B 4, in order to
+break up White's centre and give full action to the Black Bishop posted at
+Q Kt 2. In this game White attempts to anticipate that plan by initiating
+an advance on the centre, which, when carefully analysed, is truly an
+attack against Black's K P.
+
+       15. P - Q 5                Kt - B 4 !
+
+Against Kostic in a previous game I had played Kt - B 1. It was
+carelessness on my part, but Marshall believed differently, otherwise he
+would not have played this variation, since, had he analysed this move, he
+would, I think, have realised that Black would obtain an excellent game.
+Black now threatens not only B P x P; but also Kt x P; followed by B P x P.
+The position is very interesting and full of possibilities.
+
+[Illustration] {241}
+
+       16. P x K P                Kt x P (K 3)
+       17. B x Kt                 Q x B
+
+played under the impression that White had to lose time in defending his
+Q R P, when I could play P - Q B 4, obtaining a very superior game. But, as
+will be seen, my opponent had quite a little surprise for me.
+
+       18. Kt - Q 4 !
+
+[Illustration]
+
+       18. ........               Q - K 4 !
+
+Of course, if 18...Q x R P; 19 R - R 1 would win the Queen. The text move
+is probably the only satisfactory move in the position. The obvious move
+would have been Q - Q 2 to defend the Q B P, and then would have come
+19 Kt - B 5, P - B 3; 20 Q - K Kt 3 (threatening Q R - Q 1), K - R 1;
+21 Q R - Q 1, Q - K B 2; 22 P - K R 4, with a tremendous advantage in
+position. The text move, on the other hand, assures Black an even game at
+the very least, as will soon be seen. {242}
+
+       19. Kt x P                 Q x Q
+       20. R x Q                  R - Q 7
+       21. R - Kt 1
+
+A very serious error of judgment. White is under the impression that he has
+the better game, because he is a Pawn ahead, but that is not so. The
+powerful position of the Black Rook at Q 7 fully compensates Black for the
+Pawn minus. Besides, the Bishop is better with Rooks than the Knight (see
+pages 48-56, where the relative values of the Knight and Bishop are
+compared), and, as already stated, with Pawns on both sides of the board
+the Bishop is superior because of its long range. Incidentally, this ending
+will demonstrate the great power of the Bishop. White's best chance was to
+take a draw at once, thus. 21 Kt - K 7 ch K - B 1; 22 R - B 7 R - K 1 (not
+B x P; because P - B 3 would give White the best of it); 23 R x B (best;
+not Kt - Kt 6 ch, because of B P x Kt; followed by R x K P), R x Kt;
+24 R - Kt 8 ch, R - K 1; 25 R x R ch, K x R, and with proper play White
+will draw.
+
+It is curious that, although a Pawn ahead, White is the one who is always
+in danger. It is only now, after seeing this analysis, that the value of
+Black's 18th move Q - K 4 can be fully appreciated.
+
+       21. ........               R - K 1
+
+With this powerful move Black begins, against White's centre, an assault
+which will soon be shifted against {243} the King itself. White is afraid
+to play 22 P - B 3 because of P - B 4.
+
+       22. P - K 5                P - K Kt 4
+
+To prevent P - B 4. The White Knight is practically pinned, because he does
+not dare move on account of R x K P.
+
+[Illustration]
+
+       23. P - K R 4
+
+This is a sequel to the previous move. White expects to disrupt Black's
+Pawns, and thus make them weak.
+
+       23. ........               P x P
+
+Though doubled and isolated this Pawn exercises enormous pressure. Black
+now threatens R - K 3; to be followed by R - Kt 3 and P - R 6 and R 7 at
+the proper time.
+
+       24. R - K 1
+
+White cannot stand the slow death any longer. {244} He sees danger
+everywhere, and wants to avert it by giving up his Queen's side Pawns,
+expecting to regain his fortunes later on by taking the initiative on the
+King's side.
+
+       24. ........               R - K 3 !
+
+Much better than taking Pawns. This forces White to defend the Knight with
+the Rook at K 1, because of the threat R - Kt 3.
+
+       25. R (K1) - Q B 1         K - Kt 2
+
+Preparatory to R - Kt 3. The game is going to be decided on the King's
+side, and it is the isolated double Pawn that will supply the finishing
+touch.
+
+       26. P - Q Kt 4             P - Kt 4
+
+To prevent P - Kt 5, defending the Knight and liberating the Rooks.
+
+       27. P - R 3                R - Kt 3
+       28. K - B 1                R - R 7
+
+[Illustration] {245}
+
+Notice the remarkable position of the pieces. White cannot move anything
+without incurring some loss. His best chance would have been to play
+29 P - K 6, but that would only have prolonged the game, which is lost in
+any case.
+
+       29. K - Kt 1               P - R 6
+       30. P - Kt 3               P - Q R 3
+
+Again forcing White to move and to lose something thereby, as all his
+pieces are tied up.
+
+[Illustration]
+
+       31. P - K 6                R x K P
+
+Not even now can White move the Knight because of P - R 7 ch; K x P,
+R - R 3 ch; K - Kt 1, R - R 8 mate.
+
+       32. P - Kt 4               R - R 3
+       33. P - B 3
+
+If 33 P - Kt 5, P - R 7 ch; 34 K - R 1, R x Kt; 35 R x R, R x P, winning
+easily. {246}
+
+       33. ........               R - Q 3
+       34. Kt - K 7               R (Q3) - Q 7
+       35. Kt - B 5 ch            K - B 3
+       36. Kt - R 4               K - Kt 4
+       37. Kt - B 5               R - Kt 7 ch
+       38. K - B 1                P - R 7
+       39. P - B 4 ch             K x B P
+       40. Resigns.
+
+An ending worth very careful study.
+
+       *       *       *       *       *
